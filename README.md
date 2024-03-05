@@ -1,5 +1,5 @@
-This repository is included the implementation of a published fully connected network [1]. 
-We have conducted an investigation on the method using 3 different datasets: TS1, TS2, and TS3 (explained by detail in our paper that currently is under review).
+This repository includes implementing a published fully connected network [1]. 
+We have investigated the method using 3 different datasets: TS1, TS2, and TS3 (explained in detail in our paper that is currently under review).
 All images extracted from a public database introduced in [2]. 
 
 References:
