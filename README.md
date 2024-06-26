@@ -2,7 +2,6 @@ This repository includes the implementation of four well-known uneven illuminati
 
 
 Implemented Algorithms
-
 TAK Algorithm [2]: Implemented by our team.
 Wang Method [1]: Investigated using datasets TS1, TS2, and TS3.
 CIDRE [3]: https://github.com/smithk/cidre
