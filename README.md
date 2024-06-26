@@ -1,6 +1,8 @@
 This repository includes the implementation of four well-known uneven illumination correction algorithms as published in [1-4]. The TAK algorithm [2] has been implemented by us. We have investigated the Wang [1] method using three different datasets: TS1, TS2, and TS3 (explained in detail in our paper currently under review). All images were extracted from a public database introduced in [2].
 
+
 Implemented Algorithms
+
 TAK Algorithm [2]: Implemented by our team.
 Wang Method [1]: Investigated using datasets TS1, TS2, and TS3.
 CIDRE [3]: https://github.com/smithk/cidre
