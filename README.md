@@ -1,10 +1,11 @@
-This repository includes implementing a published fully connected network [1]. 
-We have investigated the method using 3 different datasets: TS1, TS2, and TS3 (explained in detail in our paper currently under review).
-All images extracted from a public database introduced in [2]. 
+This repository includes the implementation of four well-known uneven illumination correction algorithms as published in [1-4]. The TAK algorithm [2] has been implemented by us. We have investigated the Wang [1] method using three different datasets: TS1, TS2, and TS3 (explained in detail in our paper currently under review). All images were extracted from a public database introduced in [2].
 
-CIDRE [3]: https://github.com/smithk/cidre 
-
+Implemented Algorithms
+TAK Algorithm [2]: Implemented by our team.
+Wang Method [1]: Investigated using datasets TS1, TS2, and TS3.
+CIDRE [3]: https://github.com/smithk/cidre
 BaSiC [4]: https://github.com/marrlab/BaSiC
+
 
 References:
 [1]. J. Wang et al., "Correction of uneven illumination in color microscopic image based on fully convolutional network," Optics express, vol. 29, no. 18, pp. 28503-28520, 2021.
